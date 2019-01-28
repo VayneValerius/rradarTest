@@ -1,0 +1,22 @@
+.search-input {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid lightblue;
+    padding: 10px;
+    background-color:gainsboro;  
+}
+
+.text-input {
+    border: 0px;
+    width: 100%;
+    background-color: gainsboro; 
+    text-align: center;
+    font-size: 15px;
+}
+
+.search-label{
+    margin: auto;
+    text-align: center;
+    font-size: 20px;
+}

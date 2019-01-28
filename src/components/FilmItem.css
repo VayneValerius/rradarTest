@@ -1,0 +1,25 @@
+.film-item{
+    border-radius: 25px;
+    border: 3px solid lightblue;
+    text-align: center;
+    margin: 10px;
+    background-color:gainsboro; 
+}
+
+.value-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(50%, 1fr));
+    grid-gap: 20%, 20%;
+    grid-auto-rows: 20%;
+    font-size: 15px;
+}
+
+.company-item{
+    border: 3px solid lightblue;
+    background-color: gainsboro; 
+    margin:auto;
+    width:auto;
+    height:auto;
+    padding: 10px;
+    cursor: pointer;
+}

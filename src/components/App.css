@@ -1,0 +1,10 @@
+.ui-container{
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 25px;
+    border: 3px solid lightblue;
+    position: relative;
+    background-color: rgb(165, 157, 157);
+
+}
